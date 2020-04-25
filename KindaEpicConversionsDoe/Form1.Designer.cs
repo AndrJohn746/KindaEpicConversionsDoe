@@ -118,7 +118,7 @@
             this.Controls.Add(this.options);
             this.Controls.Add(this.title);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "UC - American to Metric";
             this.ResumeLayout(false);
             this.PerformLayout();
 
